@@ -1,4 +1,4 @@
-# TUGAS-UTS-UAS – Rekayasa Sistem Informasi (Kelas A1)
+# TUGAS-UTS-UAS – Rekayasa Sistem Informasi (Kelas A2)
 ## Proyek: TukangDekat (Platform Pemesanan Jasa Lokal – Bojongloa Kaler)
 
 Repository ini berisi dokumen dan (nantinya) source code proyek tugas besar mata kuliah **Rekayasa Sistem Informasi**.
