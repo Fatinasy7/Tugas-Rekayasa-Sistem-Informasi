@@ -84,7 +84,7 @@
 
 ### 1.1 Purpose
 
-Dokumen ini menetapkan kebutuhan perangkat lunak untuk **TukangDekat**, sebuah sistem informasi yang menghubungkan warga atau pelanggan dengan penyedia jasa lokal (tukang atau teknisi) di **Kecamatan Bojongloa Kaler**. Sistem terdiri dari aplikasi mobile (Flutter) dan backend REST API (Laravel), dengan integrasi pembayaran QRIS untuk mekanisme DP dan pelunasan, serta notifikasi otomatis menggunakan n8n melalui WhatsApp dan email.
+Dokumen ini menetapkan kebutuhan perangkat lunak untuk **TukangDekat**, sebuah sistem informasi yang menghubungkan warga atau pelanggan dengan penyedia jasa lokal (tukang atau teknisi) di **Kecamatan Bojongloa Kaler, Bandung**, dengan tujuan memudahkan proses pemesanan dan pembayaran.
 
 ### 1.2 Document Conventions
 
@@ -138,7 +138,7 @@ Kategori jasa yang difokuskan:
 
 ### 2.1 Product Perspective
 
-Sistem ini menggantikan proses pemesanan jasa yang umumnya dilakukan secara manual (rekomendasi tetangga atau WhatsApp) menjadi sistem terintegrasi yang mendukung pencarian penyedia jasa, pemesanan, pembayaran, notifikasi, dan pelaporan ringkas.
+Sistem ini menggantikan proses pemesanan jasa yang umumnya dilakukan secara manual (rekomendasi tetangga atau WhatsApp) menjadi sistem terintegrasi yang mendukung pencarian penyedia jasa, pemesanan, pembayaran digital, dan manajemen order.
 
 ### 2.2 Product Functions
 
