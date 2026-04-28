@@ -8,7 +8,7 @@
 
 | Nama |
 |------|
-| Nabila Asanah |
+| Nabila Asana Alecia |
 | Aldy Ramadany |
 | Tetep Safarudin |
 | Nabil Ramadhan |
