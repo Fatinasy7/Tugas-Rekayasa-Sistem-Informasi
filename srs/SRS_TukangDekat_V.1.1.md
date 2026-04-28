@@ -67,6 +67,8 @@
 [Appendix A: Glossary](#appendix-a-glossary)
 
 [Appendix B: Analysis Models](#appendix-b-analysis-models)
+
+B.2 Activity Diagram
 <img width="1809" height="1791" alt="ACTIVITY_DIAGRAM_TUKANG_DEKAT" src="https://github.com/user-attachments/assets/6004af38-0c04-46b3-87d7-f90ac4358bb2" />
 
 
