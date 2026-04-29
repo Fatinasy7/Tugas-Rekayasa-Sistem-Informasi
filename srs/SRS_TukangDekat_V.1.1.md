@@ -1,5 +1,3 @@
-<img width="88" height="150" alt="tukangdekat_usecase_twocol" src="https://github.com/user-attachments/assets/7b6b879f-54fb-428c-8dca-45ebb62c52a7" /># Software Requirements Specification — TukangDekat
-
 **Platform Pemesanan Jasa Lokal Kecamatan Bojongloa Kaler Berbasis Mobile & API**
 
 > Version 1.0 approved (UTS)
