@@ -389,7 +389,7 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 
 - Use Case Diagram
 - Activity Diagram
-  <img width="500" height="400" alt="WhatsApp Image 2026-04-29 at 14 15 41" src="https://github.com/user-attachments/assets/df6d30be-3e4a-4aa3-b3a3-1592e5d55d3f" />
+  <img width="500" height="400" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/6791dd8a-afc1-4b51-a430-4799dea0f2f6" />
 - Rancangan Database
 - Rancangan Arsitektur System
 - Rancangan Arsitektur Teknologi
