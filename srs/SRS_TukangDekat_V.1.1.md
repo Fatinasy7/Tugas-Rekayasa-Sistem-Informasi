@@ -389,7 +389,7 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 
 - Use Case Diagram
 - Activity Diagram
-  <img width="500" height="400" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/6791dd8a-afc1-4b51-a430-4799dea0f2f6" />
+  <img width="500" height="400" alt="ACTIVITY_DIAGRAM_TUKANG_DEKAT" src="https://github.com/user-attachments/assets/424d67e7-72f8-4e8a-a68a-598d3d4355b9" />
 - Rancangan Database
   <img width="500" height="400" alt="ERDDiagram" src="https://github.com/user-attachments/assets/0a9eddac-d065-43a7-893d-8d99cf67e375" />
 - Rancangan Arsitektur System
