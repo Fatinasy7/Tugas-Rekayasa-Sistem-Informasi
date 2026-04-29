@@ -391,7 +391,9 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 
 - Use Case Diagram
 - Activity Diagram
-- Skema Database
+- Rancangan Database
+- Rancangan Arsitektur System
+- Rancangan Arsitektur Teknologi
 - Class Diagram
 - Component Diagram
 - Deployment Diagram
