@@ -391,6 +391,7 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 - Activity Diagram
   <img width="500" height="400" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/6791dd8a-afc1-4b51-a430-4799dea0f2f6" />
 - Rancangan Database
+  <img width="500" height="400" alt="ERDDiagram" src="https://github.com/user-attachments/assets/0a9eddac-d065-43a7-893d-8d99cf67e375" />
 - Rancangan Arsitektur System
 - Rancangan Arsitektur Teknologi
 - Class Diagram
