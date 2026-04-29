@@ -1,4 +1,4 @@
-# Software Requirements Specification — TukangDekat
+<img width="88" height="150" alt="tukangdekat_usecase_twocol" src="https://github.com/user-attachments/assets/7b6b879f-54fb-428c-8dca-45ebb62c52a7" /># Software Requirements Specification — TukangDekat
 
 **Platform Pemesanan Jasa Lokal Kecamatan Bojongloa Kaler Berbasis Mobile & API**
 
@@ -391,6 +391,7 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 
 - Use Case Diagram
 - Activity Diagram
+  <img width="1024" height="1344" alt="WhatsApp Image 2026-04-29 at 14 15 41" src="https://github.com/user-attachments/assets/df6d30be-3e4a-4aa3-b3a3-1592e5d55d3f" />
 - Rancangan Database
 - Rancangan Arsitektur System
 - Rancangan Arsitektur Teknologi
