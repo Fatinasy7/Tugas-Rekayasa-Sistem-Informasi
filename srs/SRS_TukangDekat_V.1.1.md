@@ -393,7 +393,9 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 - Rancangan Database
   <img width="500" height="400" alt="ERDDiagram" src="https://github.com/user-attachments/assets/0a9eddac-d065-43a7-893d-8d99cf67e375" />
 - Rancangan Arsitektur System
+  <img width="500" height="400" alt="arsitektur_sistem_tukangdekat" src="https://github.com/user-attachments/assets/67a1bdd4-7d80-4401-879e-a2ec0720ac45" />
 - Rancangan Arsitektur Teknologi
+  <img width="500" height="400" alt="arsitektur_teknologi_tukangdekat (1)" src="https://github.com/user-attachments/assets/33f7ba45-fa7b-4a2f-a118-b0547923e7ea" />
 - Class Diagram
 - Component Diagram
 - Deployment Diagram
