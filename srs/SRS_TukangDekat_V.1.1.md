@@ -399,6 +399,9 @@ CREATED → ACCEPTED → IN_PROGRESS → COMPLETED → CLOSED
 - Class Diagram
 - Component Diagram
 - Deployment Diagram
+- Gambaran Kasar UI App Mobile
+  [UI Kasar TukangDekat.pdf](https://github.com/user-attachments/files/27321904/UI.Kasar.TukangDekat.pdf)
+
 
 ---
 
